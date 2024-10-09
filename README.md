@@ -1,2 +1,2 @@
-# pseudocompiler
-by user15263 & MariusStefanel
+# overly-complicated
+by gabi
