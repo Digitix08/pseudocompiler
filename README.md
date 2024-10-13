@@ -1,2 +1,2 @@
 # pseudocompiler
-by User15263 & MariusStefanel & PatrunjelCC
+by Digitix08 & MariusStefanel & PatrunjelCC
